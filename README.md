@@ -17,6 +17,7 @@ These ensure that the estimated values are much reliable and accurate.
 
 
 
-#RESUKTS THROUGH GOOGLE COLAB
+#RESUKTS THROUGH GOOGLE COLAB: 
+
 <img width="515" alt="image" src="https://github.com/user-attachments/assets/3197bf75-9aaf-4451-b671-7efa9cff77e1" />
 
