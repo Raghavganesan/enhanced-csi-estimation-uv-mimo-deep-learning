@@ -1,6 +1,6 @@
 <h1>Enhanced CSI Estimation in UV MIMO Systems using Deep Learning Based models</h1>
 
-Channel estimation plays a critical role in wireless communication systems by determining the channel coefficients between the transmitter and receiver. These coefficients, which are complex-valued, are represented in the Channel State Information (CSI) matrix. The accuracy of this CSI matrix directly impacts system performance, data throughput, and error rates.
+<p>Channel estimation plays a critical role in wireless communication systems by determining the channel coefficients between the transmitter and receiver. These coefficients, which are complex-valued, are represented in the Channel State Information (CSI) matrix. The accuracy of this CSI matrix directly impacts system performance, data throughput, and error rates.</p>
 
 Conventional estimation techniques such as Least Squares (LS) and Minimum Mean Square Error (MMSE) have long been used for this task. However, these methods suffer from significant drawbacks:
 - High computational complexity, especially in large-scale MIMO systems.
